@@ -28,3 +28,7 @@ var bc = 119;
 var bd = bc % 5;
 console.log(bd)
 
+
+for (let i = 0; i < 7; i++){
+    console.log('i', i)
+}
